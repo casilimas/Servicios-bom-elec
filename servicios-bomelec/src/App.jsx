@@ -7,7 +7,7 @@ function App() {
       <p>Servicios eléctricos</p>
 
       <img
-        src="/img bomelec.jpg"
+        src="/img-bomelec.jpg"
         alt="BOME-ELEC"
         style={{
           width: '100%',
